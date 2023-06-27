@@ -1,8 +1,2 @@
 # penjualantiketbus
 penjualan tiket bus
-
-# ALFAZA PUTRA ADJIE ARIEFIANSYAH 	  312210512
-# FEIBERT SIANTURI			              312210578
-# MUHAMMAD HASBIALLAH		              312210618
-# RIDHA MUHAMMAD RIFQI		            312210491
-# ROBBY FIRMANSYAH			              312210643
